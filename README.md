@@ -1,7 +1,7 @@
-# metadata_viewer
+# Description
 Just a simple script to inspect TF Lite metadata
 
-# usage
+# Usage
 simple use:
 ```bash
 python model_viewer.py \
@@ -17,4 +17,6 @@ python model_viewer.py \
 
 where appended_resource_id should be the index (0 based) of the appended resource file
 
+# Resources
+Oficial documentation for [TF Lite metadata](https://www.tensorflow.org/lite/convert/metadata)
 
