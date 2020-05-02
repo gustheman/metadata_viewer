@@ -1,3 +1,6 @@
+''' TF Lite Metadata viewer '''
+''' author: gustheman'''
+
 from tflite_support import metadata as _metadata
 import zipfile
 from absl import app
