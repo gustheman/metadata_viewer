@@ -11,7 +11,7 @@ python model_viewer.py \
 to visualize metadata
 ```bash
 python model_viewer.py \
-    model_file=./some_tf_lite_model.tflite
+    model_file=./some_tf_lite_model.tflite \
     appended_resource_id=0
 ```
 
