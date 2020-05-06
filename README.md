@@ -4,13 +4,13 @@ Just a simple script to inspect TF Lite metadata
 # Usage
 simple use:
 ```bash
-python model_viewer.py \
+python metadata_viewer.py \
     model_file=./some_tf_lite_model.tflite
 ```
 
 to visualize metadata
 ```bash
-python model_viewer.py \
+python metadata_viewer.py \
     model_file=./some_tf_lite_model.tflite \
     appended_resource_id=0
 ```
